@@ -22,7 +22,7 @@
 
 <hr>
 
-<h4>Ainda precisa de implementação
+<h4>Ainda não implementado
 </h4>
 
 <ol>
