@@ -21,11 +21,11 @@
 
 <hr>
 
-<h3>Checkbox do que ainda precisa ser implementado
+<h3>Ainda precisa de implementação
 </h3>
 
-[ ] Canva para EndGame() e WinGame() 
-
-[ ] Inimigos atirarem randomicante
-
-[ ] Perder vidas
+<ol>
+    <li>Canva par mostrar informações de score, vitória e derrota</li>
+    <li>Inimigos atirarem randomicamente</li>
+    <li>Perder vidas</li>
+</ol>
