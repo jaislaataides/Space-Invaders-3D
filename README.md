@@ -25,7 +25,7 @@
 </h3>
 
 <ol>
-    <li>Canva par mostrar informações de score, vitória e derrota</li>
+    <li>Canva para mostrar informações de score, vitória e derrota</li>
     <li>Inimigos atirarem randomicamente</li>
     <li>Perder vidas</li>
 </ol>
