@@ -15,7 +15,8 @@
     <li>Nave do player com movimentação em a, d e tiro na barra de espaço</li>
     <li>Setagem e movimentação dos 60 inimigos</li>
     <li>Destruição dos inimigos</li>
-    <li>Som ambiente e som de efeitos especiais (laser)</li>    
+    <li>Som ambiente e som de efeitos especiais (laser)</li>  
+    <li>Barreiras que absorvem apenas 30 tiros</li>
     </ul>
 </p>
 
