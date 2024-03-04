@@ -23,9 +23,9 @@
 
 <h3>Checkbox do que ainda precisa ser implementado
 </h3>
-<p><input type="checkbox" /> Canva para EndGame() e WinGame() 
 
-<input type="checkbox" /> Inimigos atirarem randomicante
+[ ] Canva para EndGame() e WinGame() 
 
-<input type="checkbox" /> Perder vidas
-</p>
+[ ] Inimigos atirarem randomicante
+
+[ ] Perder vidas
