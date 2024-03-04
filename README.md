@@ -22,8 +22,8 @@
 
 <hr>
 
-<h3>Ainda precisa de implementação
-</h3>
+<h4>Ainda precisa de implementação
+</h4>
 
 <ol>
     <li>Canva para mostrar informações de score, vitória e derrota</li>
